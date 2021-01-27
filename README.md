@@ -1,7 +1,13 @@
 # td3
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+Lucas:
+jddjdkjdkjndndkjn
+============
+>>>>>>> f12380e38d2d0bbcc65d304c2d46468ddbb3d9a3
 Le vent se lève !… Il faut tenter de vivre !
 L'air immense ouvre et referme mon livre,
 La vague en poudre ose jaillir des rocs !
